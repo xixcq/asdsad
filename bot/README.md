@@ -1,1 +1,0 @@
-# Falcon Discord Bot Dosyası !
